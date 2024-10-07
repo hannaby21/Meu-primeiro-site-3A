@@ -23,7 +23,7 @@
 }
 
 .escola-imagem {
-    width: 25%;
+    width: 15%;
 }
 
 .escola {
@@ -32,13 +32,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 15px 0;
 }
 
 .escola-div-conteudo {
-    width: 35%;
+    width: 15%;
 }
 
 .escola-titulo {
-    padding: 24px 0;
+    padding: 15px 0;
 }
