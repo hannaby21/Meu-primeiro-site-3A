@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.cabeçario {
+.cabecario {
     background-color: #f8f7f8;
     color: #c40467;
     display: flex;
@@ -12,18 +12,18 @@
     padding: 24px 0;
 }
 
-.cabeçario-imagem {
-    width: 15%;
+.cabecario-imagem {
+    width: 25%;
 }
 
-.cabeçario-lista-item {
+.cabecario-lista-item {
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
 }
 
 .escola-imagem {
-    width: 15%;
+    width: 25%;
 }
 
 .escola {
@@ -32,13 +32,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 15px 0;
+    padding: 24px 0;
 }
 
 .escola-div-conteudo {
-    width: 15%;
+    width: 35%;
 }
 
 .escola-titulo {
-    padding: 15px 0;
+    padding: 24px 0;
 }
