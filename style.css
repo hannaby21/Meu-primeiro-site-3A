@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.cabecalho {
+.cabeçario {
     background-color: #f8f7f8;
     color: #c40467;
     display: flex;
@@ -12,11 +12,11 @@
     padding: 24px 0;
 }
 
-.cabecalho-imagem {
+.cabeçario-imagem {
     width: 15%;
 }
 
-.cabecalho-lista-item {
+.cabeçario-lista-item {
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
